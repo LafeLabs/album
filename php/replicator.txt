@@ -12,6 +12,7 @@ $dna = json_decode($dnaraw);
 
 mkdir("data");
 mkdir("php");
+mkdir("songs");
 
 
 copy("https://raw.githubusercontent.com/LafeLabs/album/main/php/replicator.txt","replicator.php");

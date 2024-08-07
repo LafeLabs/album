@@ -1,6 +1,7 @@
 {
     "html": [
         "README.md",
+        "album.html",
         "fork.html",
         "geometron.js",
         "index.html",
@@ -8,8 +9,10 @@
         "qrcode.html",
         "readme.html",
         "readmeeditor.html",
+        "songs.html",
         "trashmagic.css",
-        "trashmagic.js"
+        "trashmagic.js",
+        "webeditor.html"
     ],
     "data": [
         "dna.txt"
@@ -27,6 +30,7 @@
         "rdelete.txt",
         "replicator.txt",
         "text2php.txt",
-        "updir.txt"
+        "updir.txt",
+        "upload.txt"
     ]
 }
