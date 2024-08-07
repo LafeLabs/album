@@ -15,8 +15,8 @@
 
 # Links
 
+ - [https://lafelabs.github.io/album.html](https://lafelabs.github.io/album.html)
  - [index.html](index.html)
  - [http://localhost/](http://localhost/)
  - [webeditor.html](webeditor.html)
  - [editor.php](editor.php)
- 
