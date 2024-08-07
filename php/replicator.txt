@@ -1,6 +1,6 @@
 <?php
 
-$dnaurl = "https://raw.githubusercontent.com/LafeLabs/meme/main/data/dna.txt";
+$dnaurl = "https://raw.githubusercontent.com/LafeLabs/album/main/data/dna.txt";
 
 if(isset($_GET["dna"])){
     $dnaurl = $_GET["dna"];
@@ -12,10 +12,9 @@ $dna = json_decode($dnaraw);
 
 mkdir("data");
 mkdir("php");
-mkdir("memes");
 
 
-copy("https://raw.githubusercontent.com/LafeLabs/meme/main/php/replicator.txt","replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/album/main/php/replicator.txt","replicator.php");
 
 
 foreach($dna->html as $value){
