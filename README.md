@@ -10,10 +10,13 @@
  - [song4.mp3](song4.mp3)
  - [song5.mp3](song5.mp3)
  - [song6.mp3](song6.mp3)
+ - [album.html](album.html)
+ - [cover.png](cover.png)
 
 # Links
 
- - [album.html](album.html)
+ - [index.html](index.html)
  - [http://localhost/](http://localhost/)
  - [webeditor.html](webeditor.html)
  - [editor.php](editor.php)
+ 
