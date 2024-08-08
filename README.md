@@ -4,6 +4,12 @@
 
 ![](cover.png)
 
+![](homepage.png)
+
+# ELEMENTS OF THE SET
+
+REPLACE ALL ELEMENTS WITH YOUR OWN ELEMENTS, DOWNLOAD THE HTML FILES, UPLOAD TO YOUR OWN SERVER AND EDIT TO BE YOUR OWN VERSION!  REPLICATE! REPLICATE! REPLICATE!
+
  - [index.html](index.html)
  - [song1.mp3](song1.mp3)
  - [song2.mp3](song2.mp3)
@@ -13,11 +19,12 @@
  - [song6.mp3](song6.mp3)
  - [album.html](album.html)
  - [cover.png](cover.png)
+ - [homepage.png](homepage.png)
 
 # Links
 
- - [https://lafelabs.github.io/album.html](https://lafelabs.github.io/album.html)
  - [index.html](index.html)
  - [http://localhost/](http://localhost/)
  - [webeditor.html](webeditor.html)
  - [editor.php](editor.php)
+ - [php/replicator.txt](php/replicator.txt)
