@@ -1,10 +1,7 @@
 # [Album](https://github.com/lafelabs/album)
 
-![](qrcode.png)
+![qrcode.png](qrcode.png)
 
-![](cover.png)
-
-![](homepage.png)
 
 # ELEMENTS OF THE SET
 
@@ -28,3 +25,8 @@ REPLACE ALL ELEMENTS WITH YOUR OWN ELEMENTS, DOWNLOAD THE HTML FILES, UPLOAD TO 
  - [webeditor.html](webeditor.html)
  - [editor.php](editor.php)
  - [php/replicator.txt](php/replicator.txt)
+
+![cover.png](cover.png)
+
+![homepage.png](homepage.png)
+
